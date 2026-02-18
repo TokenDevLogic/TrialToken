@@ -1,0 +1,15 @@
+{
+  "name": "TrialToken",
+  "symbol": "TRL",
+  "description": "Invest in your freedom.",
+  "image": "https://raw.githubusercontent.com/TokenDevLogic/TrialToken/refs/heads/main/TrialToken.png",
+  "attributes": [],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/TokenDevLogic/TrialToken/refs/heads/main/TrialToken.png",
+        "type": "image/png"
+      }
+    ]
+  }
+}
